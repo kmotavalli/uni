@@ -1,6 +1,6 @@
 #counting sort, versione per soli numeri positivi
 .data
-
+    #potrei usare $v0 E $v1 anziche' fare accessi alla memoria
     arrayMinMax:
         .word 0 0
     salvataggio_ra:
